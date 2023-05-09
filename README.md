@@ -1,4 +1,4 @@
-# 48906-jedrzej-uszpulewicz
+# 48906-jedrzej-uszpulewicz-health-bar
 Dolnośląska Szkoła Wyższa | Student 48906
 
 Prosty pasek życia (50pkt HP).
